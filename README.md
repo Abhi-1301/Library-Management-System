@@ -8,9 +8,12 @@ In addition to this the administration also needs to perform the following tasks
 
 i) It allows the admin to add, delete, update (id etc.) and edit (issue or return) the book's
 information.
+
 ii) It allows to admin to view the books issued to a particular student.
+
 iii) It allows the user to search information of a particular book using their unique identification
 number.
+
 iv) It should allow the user to check status of books he has issued.
 
 It should not allow a student to issue more than 4 books at a time. Also, if at the time of return of books
