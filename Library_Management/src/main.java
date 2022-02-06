@@ -20,7 +20,7 @@ public class main {
       final String DB_URL = "jdbc:mysql://localhost:3306/MANAGE";
 
       final String USER = "root";
-      final String PASS = "Abhinandan@13";
+      final String PASS = "hello_kiki";
 
       Connection conn = DriverManager.getConnection(DB_URL, USER, PASS);
 
